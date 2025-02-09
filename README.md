@@ -25,10 +25,6 @@ The **Health & Fitness Tracker** is a Python-based application designed to help 
 - **Pandas** – For handling and analyzing data  
 - **Datetime & Time** – To track logs based on date and time  
 
----
-
-## 📺 Screenshots  
-(Include images or GIFs showing the app interface)  
 
 ---
 
